@@ -7,26 +7,46 @@ Each is grouped based on the library used to create the target.
 
 &nbsp;
 
-# Reflaxe
-https://github.com/SomeRanDev/reflaxe
+# Tools
 
-A framework for creating compilation targets using macros.
+These are libraries that can be used to create your own Haxe targets.
 
-| Name             | Language Target | Github Link                                    |
-| ---------------- | --------------- | ---------------------------------------------- |
-| Reflaxe/C++      | C++             | https://github.com/SomeRanDev/reflaxe.CPP      |
-| Reflaxe/GDScript | GDScript        | https://github.com/SomeRanDev/reflaxe.GDScript |
-| Reflaxe/C#       | C#              | https://github.com/SomeRanDev/reflaxe.CSharp   |
+| Name     | Description                                                | Github Link                              |
+| -------- | ---------------------------------------------------------- | ---------------------------------------- |
+| Reflaxe  | A framework for creating compilation targets using macros. | https://github.com/SomeRanDev/reflaxe    |
+| sfhx     | Tools for implementing CustomJSGenerator-based targets.    | https://github.com/YAL-Haxe/sfhx         |
 
 &nbsp;
 
-# sfhx
-https://github.com/YAL-Haxe/sfhx
+# Reflaxe-Made Targets
 
-Tools for implementing CustomJSGenerator-based targets.
+Targets made with Reflaxe.
+
+| Name                 | Language Target | Github Link                                            |
+| -------------------- | --------------- | ------------------------------------------------------ |
+| Reflaxe/C++          | C++             | https://github.com/SomeRanDev/reflaxe.CPP              |
+| Reflaxe/GDScript     | GDScript        | https://github.com/SomeRanDev/reflaxe.GDScript         |
+| Reflaxe/C#           | C#              | https://github.com/SomeRanDev/reflaxe.CSharp           |
+| Reflaxe/Java Sources | Java            | https://github.com/EliteMasterEric/reflaxe_javasources |
+| Reflaxe/Wren         | Wren            | https://github.com/davidbruce/reflaxe.Wren             |
+
+&nbsp;
+
+# Sfhx-Made Targets
+
+Targets made with sfhx.
 
 | Name             | Language Target | Github Link                                    |
 | ---------------- | --------------- | ---------------------------------------------- |
 | sfgml            | GML             | https://github.com/YAL-Haxe/sfgml              |
 | SillySharp       | C#              | https://github.com/YAL-Haxe/sillysharp         |
 | hxpico8          | Lua             | https://github.com/YAL-Haxe/hxpico8            |
+
+&nbsp;
+
+# Other Targets
+
+Targets made without a specific library.
+
+| Name             | Language Target | Github Link                                    |
+| ---------------- | --------------- | ---------------------------------------------- |
