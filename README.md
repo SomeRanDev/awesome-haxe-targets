@@ -1,9 +1,9 @@
 # Awesome Haxe Targets
 A list of all unofficial Haxe compilation targets. These are transpilers that convert Haxe into another language (besides the ones the Haxe compiler officially supports).
 
-All projects are listed here regardless of completion status. They are ordered by status and how long ago their most recent commit was. Please feel free to open PRs to add, amend, or remove projects!
+All projects are listed here regardless of completion status. They are ordered first by their status, then time since most recent commit. Each is grouped based on the library used to create the target.
 
-Each is grouped based on the library used to create the target.
+Please feel free to open PRs to add, amend, or remove projects!
 
 &nbsp;
 
