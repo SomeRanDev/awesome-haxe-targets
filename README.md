@@ -16,9 +16,9 @@ Implementation of the core Haxe API (String, Map, Array, etc.) is a good indicat
 | Icon | Name          | Meaning                                              |
 | ---- | ------------- | ---------------------------------------------------- |
 | ✅ | Usable          | Many commits and core Haxe API implemented          |
-| ⌛ | Usable, But Old | Probably usable, but SUPER old (predates Haxe 4.0)  |
-| ❓ | In-Development  | Recent progress or some Haxe API implementation     |
+| 🚀 | In-Development  | Recent progress or some Haxe API implementation     |
 | ❌ | Incomplete      | No recent progress and Haxe API unimplemented       |
+| ⌛ | Usable, But Old | Probably usable, but SUPER old (predates Haxe 4.0)  |
 | 💀 | Dead            | Not usable and no commits in months                 |
 
 &nbsp;
@@ -42,8 +42,8 @@ Targets made with Reflaxe.
 | -------------------- | --------------- | ------ | ----------------------------------------------- |
 | Reflaxe/C++          | C++             | ✅ | https://github.com/SomeRanDev/reflaxe.CPP              |
 | Reflaxe/GDScript     | GDScript        | ✅ | https://github.com/SomeRanDev/reflaxe.GDScript         |
-| Reflaxe/Swift        | Swift           | ❓ | https://github.com/epikowa/haxe_swift                  |
-| Reflaxe/Dart         | Dart            | ❓ | https://github.com/fourst4r/reflaxe.dart               |
+| Reflaxe/Swift        | Swift           | 🚀 | https://github.com/epikowa/haxe_swift                  |
+| Reflaxe/Dart         | Dart            | 🚀 | https://github.com/fourst4r/reflaxe.dart               |
 | Reflaxe/C#           | C#              | ❌ | https://github.com/SomeRanDev/reflaxe.CSharp           |
 | Reflaxe/Java Sources | Java            | 💀 | https://github.com/EliteMasterEric/reflaxe_javasources |
 | Reflaxe/Wren         | Wren            | 💀 | https://github.com/davidbruce/reflaxe.Wren             |
@@ -68,7 +68,7 @@ Targets made without a specific library.
 
 | Name                 | Language Target | Status | Github Link                           |
 | -------------------- | --------------- | ------ | ------------------------------------- |
-| Craxe (AdrianV Fork) | Nim             | ❓ | https://github.com/AdrianV/Craxe          |
+| Craxe (AdrianV Fork) | Nim             | 🚀 | https://github.com/AdrianV/Craxe          |
 | Craxe (Original)     | Nim             | 💀 | https://github.com/RapidFingers/Craxe     |
 
 &nbsp;
