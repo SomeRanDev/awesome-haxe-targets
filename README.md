@@ -43,6 +43,7 @@ Targets made with Reflaxe.
 | Reflaxe/C++          | C++             | ✅ | https://github.com/SomeRanDev/reflaxe.CPP              |
 | Reflaxe/GDScript     | GDScript        | ✅ | https://github.com/SomeRanDev/reflaxe.GDScript         |
 | Reflaxe/Swift        | Swift           | ❓ | https://github.com/epikowa/haxe_swift                  |
+| Reflaxe/Dart         | Dart            | ❓ | https://github.com/fourst4r/reflaxe.dart               |
 | Reflaxe/C#           | C#              | ❌ | https://github.com/SomeRanDev/reflaxe.CSharp           |
 | Reflaxe/Java Sources | Java            | 💀 | https://github.com/EliteMasterEric/reflaxe_javasources |
 | Reflaxe/Wren         | Wren            | 💀 | https://github.com/davidbruce/reflaxe.Wren             |
