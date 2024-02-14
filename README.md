@@ -69,7 +69,7 @@ Targets made without a specific library.
 | Name                 | Language Target | Status | Github Link                           |
 | -------------------- | --------------- | ------ | ------------------------------------- |
 | Craxe (AdrianV Fork) | Nim             | 🚀 | https://github.com/AdrianV/Craxe          |
-| Craxe (Original)     | Nim             | 💀 | https://github.com/RapidFingers/Craxe     |
+| Craxe (Original)     | Nim             | ⌛ | https://github.com/RapidFingers/Craxe     |
 
 &nbsp;
 
